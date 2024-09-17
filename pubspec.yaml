@@ -1,13 +1,7 @@
-# A library for making online payment by using Moyasar payment gateway developed by UNICODE Team
-#* Developed and published by Mohammad Saiful Islam Saif
-# https://github.com/mohammadsaif19
-
 name: flutter_moyasar
 description: A library for making online payment by using Moyasar payment gateway developed
 version: 1.0.0
-#repository: https://github.com/UNICODE-Venture/flutter_moyasar-moyasar
-#homepage: https://github.com/UNICODE-Venture/unicode-moyasar
-#issue_tracker: https://github.com/UNICODE-Venture/unicode-moyasar/issues
+repository: https://github.com/niravkakadiya25/flutter_moyasar
 
 environment:
   sdk: ">=2.19.2 <3.0.0"
